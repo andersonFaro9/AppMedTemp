@@ -19,14 +19,12 @@ Adafruit_SSD1306 display(OLED_RESET);
 
 ////--MQTT--//
 #include <PubSubClient.h>
-const char* mqttBroker = "iot.eclipse.org";
+const char* mqttBrokerEclipseQueHospedaEMandaParaOCelular = "iot.eclipse.org";
 const char* mqttClientId = "medtemp";
 
 PubSubClient client (nodemcuClient);
 const char* topicoTemperatura = "lab-medtemp/temperatura";
 const char* topicoUmidade= "lab-medtemp/umidade";
-
-
 
 
 int temperatura;
@@ -38,7 +36,7 @@ void setup() {
 //  Display Graus;
     configurarMensagemNoDisplay();
    conectarWifi();
-  client.setServer(mqttBroker,1883);
+  client.setServer(mqttBrokerEclipseQueHospedaEMandaParaOCelular,1883);
   
 
 }
