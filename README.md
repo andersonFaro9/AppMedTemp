@@ -12,6 +12,8 @@ esse contéudo fica a dica aqui para editarem e contribuirem para novas features
 para quem deseja aprender mais disso. Abaixo o link do video com protótipo em 
 funcionamento:
 
+
+
 https://youtu.be/AukTfFAtmyY
 
    
