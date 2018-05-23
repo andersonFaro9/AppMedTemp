@@ -9,8 +9,9 @@ onde as informações são armazenadas e a comunicação acontece. Esse foi um p
 Jackson dos Santos e Leônidas Alvino da faculdade Univesp para aprensentação de conclusão de 
 semestre. O tema, mais uma vez foi "IOT" e o resultado disso foi espetacular. Aos que acessarem 
 esse contéudo fica a dica aqui para editarem e contribuirem para novas features e principalmente 
-para quem deseja aprender mais disso. Abaixo você pode ver um video com protótipo em 
-funcionamento.
+para quem deseja aprender mais disso. Abaixo o link do video com protótipo em 
+funcionamento:
 
 https://youtu.be/AukTfFAtmyY
+
    
